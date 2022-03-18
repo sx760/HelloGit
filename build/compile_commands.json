@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Projects/VSCodeProjects/CppProjects/HelloGit/build",
+  "command": "D:\\Program\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\HelloGit.dir\\main.cpp.obj -c D:\\Projects\\VSCodeProjects\\CppProjects\\HelloGit\\main.cpp",
+  "file": "D:/Projects/VSCodeProjects/CppProjects/HelloGit/main.cpp"
+}
+]
